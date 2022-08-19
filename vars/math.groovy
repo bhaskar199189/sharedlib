@@ -14,7 +14,7 @@ def mul(a,b)
     echo "The product of ${a} and ${b} is ${a*b}"
 }
 
-def div
+def div(a,b)
 {
     echo "The divison result of ${a} and ${b} is ${a/b}"
 }
